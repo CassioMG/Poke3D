@@ -1,0 +1,47 @@
+{
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  },
+  "resources" : [
+    {
+      "filename" : "Beedrill.arreferenceimage"
+    },
+    {
+      "filename" : "Eevee.arreferenceimage"
+    },
+    {
+      "filename" : "Espeon.arreferenceimage"
+    },
+    {
+      "filename" : "Grimer.arreferenceimage"
+    },
+    {
+      "filename" : "Kakuna.arreferenceimage"
+    },
+    {
+      "filename" : "Kangaskhan.arreferenceimage"
+    },
+    {
+      "filename" : "Koffing.arreferenceimage"
+    },
+    {
+      "filename" : "Leafeon.arreferenceimage"
+    },
+    {
+      "filename" : "Machop.arreferenceimage"
+    },
+    {
+      "filename" : "Magikarp.arreferenceimage"
+    },
+    {
+      "filename" : "Muk.arreferenceimage"
+    },
+    {
+      "filename" : "Weedle.arreferenceimage"
+    },
+    {
+      "filename" : "Zubat.arreferenceimage"
+    }
+  ]
+}
